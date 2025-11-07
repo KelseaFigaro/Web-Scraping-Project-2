@@ -8,11 +8,17 @@ The Questions to be answered:
 
 The files:
 webscrapingproject.ipynb- Jupyter Notebook containing the web scraping process, converting the data into data frames, and converting the data frames into csv files for export
+
 WebscapingPlots.ipynb- Jupyter Notebook containing the questions, plots, and analysis of each each question and plot
+
 GothamPlayers- contains the scraped data for Gotham FC
+
 SpiritPlayers- contains the scraped data for Washington Spirit
+
 RacingPlayers- contains the scraped data for Racing Louisville FC
+
 ThornsPlayers- contains the scraped data for Portland Thorns
+
 nwslstats- contains the scraped data for NWSL league stats for the 2025 Regular Season
 
 Links to webpages that were scraped:
