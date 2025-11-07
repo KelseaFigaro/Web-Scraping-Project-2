@@ -16,6 +16,7 @@ ThornsPlayers- contains the scraped data for Portland Thorns
 nwslstats- contains the scraped data for NWSL league stats for the 2025 Regular Season
 
 Links to webpages that were scraped:
+
 https://fbref.com/en/squads/8e306dc6/Gotham-FC-Stats#all_stats_standard
 
 https://fbref.com/en/squads/e442aad0/Washington-Spirit-Stats
