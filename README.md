@@ -7,6 +7,7 @@ The Questions to be answered:
 4) Is there a correlation between players shot totals and goals for the Thorns?
 
 The files:
+
 webscrapingproject.ipynb- Jupyter Notebook containing the web scraping process, converting the data into data frames, and converting the data frames into csv files for export
 
 WebscapingPlots.ipynb- Jupyter Notebook containing the questions, plots, and analysis of each each question and plot
