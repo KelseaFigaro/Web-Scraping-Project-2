@@ -17,7 +17,11 @@ nwslstats- contains the scraped data for NWSL league stats for the 2025 Regular 
 
 Links to webpages that were scraped:
 https://fbref.com/en/squads/8e306dc6/Gotham-FC-Stats#all_stats_standard
+
 https://fbref.com/en/squads/e442aad0/Washington-Spirit-Stats
+
 https://fbref.com/en/squads/da19ebd1/Racing-Louisville-Stats
+
 https://fbref.com/en/squads/df9a10a1/Portland-Thorns-FC-Stats
+
 https://fbref.com/en/comps/182/NWSL-Stats
